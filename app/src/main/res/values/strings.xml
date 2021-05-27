@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Random Number Generator</string>
+    <string name="minimum">MINIMUM</string>
+    <string name="maximum">MAXIMUM</string>
+    <string name="minimumNumber">0</string>
+    <string name="textExplatation">Set a range for minimun &amp; maximun number value.
+Then click "generate" to receive a random number.</string>
+    <string name="generate">Generate</string>
+    <string name="generatedValue">0</string>
+</resources>
